@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MailsenderApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MailsenderApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(MailsenderApplication.class, args);
+    }
 
 }

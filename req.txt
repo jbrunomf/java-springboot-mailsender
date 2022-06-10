@@ -1,9 +1,0 @@
-
-http://localhost:8080/send-email
-{
-    "ownerRef": "João Bruno",
-    "emailFrom": "jbrunomf@teste.com",
-    "emailTo": "jbrunomf@outlook.com",
-    "subject": "Envio de TEste (Segundo envio)",
-    "text": "Texto"
-}
